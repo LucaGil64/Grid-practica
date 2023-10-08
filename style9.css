@@ -18,6 +18,10 @@ body{
     
 }
 
+.display-none{
+    display: none;
+}
+
 .header{
     background-color: #141414;
 
@@ -40,6 +44,7 @@ body{
             display: flex;
             justify-content: center;
         }
+        
         .flex-container__nav-middle{
             display: flex;
             justify-content: center;
